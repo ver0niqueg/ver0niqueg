@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Veronique !
 
-🎓 Student at 42 interested in computer science and programming  
+🎓 Student at 42 Paris interested in computer science and programming  
 💻 Learning software development and sharing my projects here
 
 ---

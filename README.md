@@ -12,7 +12,7 @@
 
 ## 🎯 Goals
 - Improve my programming skills
-- Build useful and real-world projects
+- Build personal projects
 - Learn new technologies
 
 ---

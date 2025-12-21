@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Veronique !
 
-<!--
-**ver0niqueg/ver0niqueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at 42 interested in computer science and programming  
+💻 Learning software development and sharing my projects here
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Languages: C, C++, HTML, CSS
+- Tools: Git, GitHub, VS Code
+- Currently learning: Javascript
+
+## 🎯 Goals
+- Improve my programming skills
+- Build useful and real-world projects
+- Learn new technologies
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/ver0niqueg
+- Email : veroniquegalmiche@hotmail.fr

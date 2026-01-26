@@ -7,7 +7,7 @@
 
 ## 🚀 Skills
 - Languages: C, C++, HTML, CSS
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, VS Code, Docker
 - Currently learning: Javascript
 
 ## 🎯 Goals

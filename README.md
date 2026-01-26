@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Skills
-- Languages: C, C++, HTML, CSS
+- Languages: C, C++, HTML, CSS, Javascipt
 - Tools: Git, GitHub, VS Code
 - Currently learning: Javascript
 

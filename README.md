@@ -6,9 +6,8 @@
 ---
 
 ## 🚀 Skills
-- Languages: C, C++, HTML, CSS
-- Tools: Git, GitHub, VS Code, Docker
-- Currently learning: Javascript
+- Languages: C, C++, Javascript, HTML, CSS, SQL
+- Framwork & Tools: React, Git, GitHub, VS Code, Docker, Docker Compose
 
 ## 🎯 Goals
 - Improve my programming skills
@@ -19,4 +18,4 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/ver0niqueg
-- Email : veroniquegalmiche@hotmail.fr
+- Email : veronique.galmiche75@gmail.com

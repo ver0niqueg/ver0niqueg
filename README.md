@@ -1,8 +1,8 @@
 # Hi there, I am Veronique ! ⋆˚✿˖°
 
-Student at 42 Paris interested in web development and data science
-Love learning new skills and new technologies
-Sharing my projects here ;)
+- Student at 42 Paris interested in web development and data science
+- Love learning new skills and new technologies
+- Sharing my projects here ;)
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi there, I am Veronique !
+# Hi there, I am Veronique ! ⋆˚✿˖°
 
 Student at 42 Paris interested in computer science and programming  
 Learning software development and sharing my projects here
@@ -9,7 +9,7 @@ Learning software development and sharing my projects here
 - Languages: C, C++, Javascript, HTML, CSS, SQL
 - Framwork & Tools: React, Git, GitHub, VS Code, Docker, Docker Compose
 
-## 🎯 Goals
+## Goals
 - Improve my programming skills with Javascript
 - Build attractive and intuitive UI/UX interfaces
 - Learn Python
@@ -17,6 +17,6 @@ Learning software development and sharing my projects here
 
 ---
 
-## 📫 Contact
+## 📩 Contact
 - GitHub: https://github.com/ver0niqueg
 - Email : veronique.galmiche75@gmail.com

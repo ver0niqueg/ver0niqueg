@@ -1,6 +1,16 @@
 # Hi there, I am Veronique ! ⋆˚✿˖°
 
+---
+
+## Status
+
+I am looking for a 6 months internship in web development or data science
+
+---
+
+## About me
 - Student at 42 Paris interested in web development and data science
+- Experience of 4 years as a Production Assistant in a Travel tech start-up
 - Love learning new skills and new technologies
 - Sharing my projects here ;)
 

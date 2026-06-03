@@ -22,7 +22,7 @@ Currently seeking a 6-month internship in Web Development or Data Analytics.
 
 ## Goals
 - Improve my programming skills
-- Build attractive and intuitive UI/UX interfaces
+- Build attractive and intuitive UI/UX interfaces and dashboards
 - Build new projects focused on web dev & data
 - Learn Python
 - Learn about Data

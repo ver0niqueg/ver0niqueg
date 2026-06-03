@@ -8,7 +8,7 @@
 
 ## Skills
 - Languages: C, C++, Javascript, HTML, CSS, SQL
-- Framwork & Tools: React, Git, GitHub, VS Code, Docker, Docker Compose
+- Framework & Tools: React, Git, GitHub, VS Code, Docker, Docker Compose
 
 ## Goals
 - Improve my programming skills with Javascript

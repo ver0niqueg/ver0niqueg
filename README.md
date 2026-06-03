@@ -1,4 +1,4 @@
-# ⋆˚✿˖° Bonjour, I am Veronique, ⋆˚✿˖°
+# ⋆˚✿˖° Bonjour, I am Veronique ⋆˚✿˖°
 
 ---
 

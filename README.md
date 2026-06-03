@@ -11,8 +11,9 @@
 - Framework & Tools: React, Git, GitHub, VS Code, Docker, Docker Compose
 
 ## Goals
-- Improve my programming skills with Javascript
+- Improve my programming skills
 - Build attractive and intuitive UI/UX interfaces
+- Build new projects focused on web dev & data
 - Learn Python
 - Learn about Data
 

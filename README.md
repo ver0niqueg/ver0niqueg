@@ -4,12 +4,12 @@
 
 ## Status
 
-I am looking for a 6 months internship in web development or data science
+Currently seeking a 6-month internship in Web Development or Data Analytics.
 
 ---
 
 ## About me
-- Student at 42 Paris interested in web development and data science
+- Student at 42 Paris interested in web development and data analytics
 - Experience of 4 years as a Production Assistant in a Travel tech start-up
 - Love learning new skills and new technologies
 - Sharing my projects here ;)

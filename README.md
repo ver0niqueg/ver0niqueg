@@ -1,4 +1,4 @@
-# Hi there, I am Veronique ! ⋆˚✿˖°
+# Bonjour, I am Veronique ! ⋆˚✿˖°
 
 ---
 
@@ -9,7 +9,7 @@ Currently seeking a 6-month internship in Web Development or Data Analytics.
 ---
 
 ## About me
-- Student at 42 Paris interested in web development and data analytics
+- Student at 42 Paris interested in Web Development and Data Analytics
 - Experience of 4 years as a Production Assistant in a Travel tech start-up
 - Love learning new skills and new technologies
 - Sharing my projects here ;)

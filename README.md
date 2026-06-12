@@ -17,7 +17,7 @@ Currently seeking a 6-month internship in Web Development or Data Analytics.
 ---
 
 ## Skills
-- Languages: C, C++, Javascript, HTML, CSS, SQL
+- Languages: C, C++, Javascript, HTML, CSS, SQL, Python
 - Framework & Tools: React, Git, GitHub, VS Code, Docker, Docker Compose
 
 ## Goals

@@ -32,3 +32,4 @@ Currently seeking a 6-month internship in Web Development or Data Analytics.
 ## 📩 Contact
 - GitHub: https://github.com/ver0niqueg
 - Email : veronique.galmiche75@gmail.com
+- Portfolio: https://portfolio-pied-five-38.vercel.app/

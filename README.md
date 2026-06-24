@@ -4,12 +4,12 @@
 
 ## Status
 
-Currently seeking a 6-month internship in Web Development or Data Analytics.
+Currently seeking a 6-month internship in Data Analytics or Web Development.
 
 ---
 
 ## About me
-- Student at 42 Paris interested in Web Development and Data Analytics
+- Student at 42 Paris interested in Web Data Analytics and Web Development
 - Experience of 4 years as a Production Assistant in a Travel tech start-up
 - Love learning new skills and new technologies
 - Sharing my projects here ;)
